@@ -654,13 +654,13 @@ footer ul li a:hover {
     .header__container .image .img2 {
         height: 65px;
         width: 220px;
-        margin-left: 0px;
+        margin-left: 5px;
     }
 
     .header__container .image .img3 img {
         height: 65px;
         width: 65px;
-        margin-left: 130px;
+        margin-left: 120px;
         margin-bottom: 10px;
     }
 
