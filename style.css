@@ -638,7 +638,6 @@ footer ul li a:hover {
     .header__container {
         grid-template-columns: 1fr;
         text-align: center;
-        margin-top: -100px;
     }
 
     .header__container .image {
