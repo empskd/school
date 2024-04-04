@@ -635,45 +635,10 @@ footer ul li a:hover {
         height: 100vh;
     }
 
-    .header__container {
+     .header__container {
         grid-template-columns: 1fr;
         text-align: center;
-    }
-
-    .header__container .image {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
-
-    .header__container .image .img1 {
-        height: 65px;
-        width: 65px;
-    }
-
-    .header__container .image .img2 {
-        height: 65px;
-        width: 220px;
-        margin-left: 0px;
-    }
-
-    .header__container .image .img3 img {
-        height: 65px;
-        width: 65px;
-        margin-left: 130px;
-        margin-bottom: 10px;
-    }
-
-    .header__left {
-        margin-top: -400px;
-    }
-
-    .header__left h1 {
-        font-size: 20px;
-        margin-bottom: 30px;
-    }
-
-    .categories{
-        margin-top: -250px;
+        margin-top: 0;
     }
 
     .header__left p {
